@@ -1,2 +1,1 @@
-# Gemini
-........
+# Flipper Zero on PC
