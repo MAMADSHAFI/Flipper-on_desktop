@@ -1,0 +1,9 @@
+REM Simple Test
+STRING Testing BadUSB Module
+ENTER
+DELAY 100
+STRING Line 2
+ENTER
+DELAY 100
+STRING Line 3
+ENTER
